@@ -1,10 +1,10 @@
-<p align="center">
+<p align="center" style="pointer-events: none;">
   <img style="pointer-events: none;" src="https://github.com/ShadowFlyX/ShadowFlyX/blob/main/assets/cowboy-bibop.gif?raw=true" alt="Header cowboy img"/>
 </p>
 
 
 ## Beginner python developer
-#### I am a sophomore in Software and Information Technology. I am developing in the field of data science and machine learning
+I am a sophomore in Software and Information Technology. I am developing in the field of data science and machine learning
 ### Languages and tools
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=3681BB)
