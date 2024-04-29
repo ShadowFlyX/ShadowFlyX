@@ -14,5 +14,8 @@ I am a sophomore in Software and Information Technology. I am developing in the 
 ![Pandas](https://img.shields.io/badge/-Pandas-090909?style=for-the-badge&logo=Pandas)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker)
 
-Follow Me
+### Social Media:
 
+[![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK&logoColor=blue)](https://vk.com/vladis_lis)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/EdwinVanClee)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/vladislav-lis-383761306)
